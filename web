@@ -1,0 +1,340 @@
+<section class="intro">
+  <div class="container">
+    <h1>Timeline of the Slovenian Civil War &darr;</h1>
+    </div>
+</section>
+ <head>
+
+ <object type="application/x-shockwave-flash" width="200" height="200" data="https://www.youtube.com/v/Y9-mYg5VDzQ?"><param name="movie" value="https://www.youtube.com/v/Y9-mYg5VDzQ?version=2&autoplay=1&loop=1&hd=1&theme=dark" /><param name="wmode" value="transparent" /></object>
+  <p></p>
+  <strong>Serbian propaganda music from the Yugoslav wars</strong>
+ </head>
+
+
+
+ <style type="text/css">
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: normal 16px/1.5 "Helvetica Neue", sans-serif;
+  background: #456990;
+  color: #fff;
+  overflow-x: hidden;
+  padding-bottom: 50px;
+}  
+
+
+/* INTRO SECTION
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.intro {
+  background: #F45B69;
+  padding: 100px 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+
+/* TIMELINE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.timeline ul li {
+  list-style-type: none;
+  position: relative;
+  width: 6px;
+  margin: 0 auto;
+  padding-top: 50px;
+  background: #fff;
+}
+
+.timeline ul li::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: inherit;
+}
+
+.timeline ul li div {
+  position: relative;
+  bottom: 0;
+  width: 400px;
+  padding: 15px;
+  background: #F45B69;
+}
+
+.timeline ul li div::before {
+  content: '';
+  position: absolute;
+  bottom: 7px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+
+.timeline ul li:nth-child(odd) div {
+  left: 45px;
+}
+
+.timeline ul li:nth-child(odd) div::before {
+  left: -15px;
+  border-width: 8px 16px 8px 0;
+  border-color: transparent #F45B69 transparent transparent;
+}
+
+.timeline ul li:nth-child(even) div {
+  left: -439px;
+}
+
+.timeline ul li:nth-child(even) div::before {
+  right: -15px;
+  border-width: 8px 0 8px 16px;
+  border-color: transparent transparent transparent #F45B69;
+}
+ </style>
+
+<section class="timeline">
+  <ul>
+    <li>
+      <div>
+        <time><strong>Background:</strong></time> The nation of Yugoslavia was created in the aftermath of World War I, and was composed mostly of South Slavic Christians, but the nation also had a substantial Muslim minority. This nation lasted from 1918 to 1941. 
+
+      </div>
+    </li>
+    <li>
+      <div>
+        <time><strong>1943:</strong></time> The Socialist Federal Republic of Yugoslavia (<font color = "blue"> SFRY </font>) was established under Josip Broz Tito, who maintained a strongly authoritarian leadership that was non-aligned with either the United States or the Soviet Union during the Cold War. 
+        <img src="http://vignette3.wikia.nocookie.net/politicsandwar/images/7/74/Josip_broz_tito_official_portrait.jpg/revision/latest?cb=20150525015159" style="width:128px;height:128px;">
+        <!-- Josip_broz_tito_official_portrait.jpg -->
+        <strong>Josip Broz Tito</strong>
+    </li>
+      </div>
+    <li>
+      <div>
+        <time><strong>1970's: </strong></time> During the 1970's tensions rose in the six republics of the <font color = "blue"> SFRY </font> as ethnic tensions betwean Serbs, Croats, Bosniaks, Macedonians, Slovenians, Albanians, and Montenegrins rose, but the Republic held together under Tito's leadership.
+        <img src="http://www.strawberryplanet.net/blog/en/wp-content/uploads/sites/2/2014/05/map_en.gif" style="width:528px;height:528px;">
+      
+      </div>
+   </li>
+   <li>
+      <div>
+        <time>4 May, 1980</time> Josip Broz Tito died amid rising tensions in Yugoslavian, The Serbians were trying to strengthen federal authority while the Croatians and Slovenians were activley trying to weaken it.
+        <img src="http://clipartsign.com/upload/2016/06/19/headstone-rip-clip-art-related-keywords.png" style="width:128px;height:128px;">
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>1989</time>Slobodan Milošević, former chairman of the Serbian League of Communists, becomes President of Serbia, the largest and most populous of the 6 republics. He attempts to further control over the other republics by strengthening the state's power and consolidating regions under Serbia's control.
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Slobodan_Milosevic_Dayton_Agreement.jpg/220px-Slobodan_Milosevic_Dayton_Agreement.jpg" style="width:128px;height:128px;">
+        <strong>Slobodan Milošević</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>23 December, 1990</time>Slovenian Government holds a referundum on seccession from the <font color = "blue"> SFRY </font> which passed with 88.5% of people voting for seccession. Immediantly after the referundum the Slovenian Government made military reforms disbanding the Territorial Gaurd and establishing a military force belonging entirely to the Slovenian Government and not Yugoslavia.
+        <p></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Vaja_slovenske_teritorialne_obrambe_Premik_91.jpg/154px-Vaja_slovenske_teritorialne_obrambe_Premik_91.jpg" style="width:128px;height:128px;">
+        <strong>Slovenian Defense Forces in defensive posture near Brnik Airport- 1991</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>June 25th, 1991</time> Croatia and Slovenia pass succession acts based on the success of independence referendums. They formerly split from Yugoslavia.
+        <p></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SocialistYugoslavia_en.svg/288px-SocialistYugoslavia_en.svg.png" style="width:500px;height:500px;">
+        <strong>Territorys of Yugoslavia and Former Yugoslavia</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>June 26th, 1991</time> The Yugoslavian Government mobilized the forces of 13th Army Corps in the Rijeka, Croatia. The force left their barracks to move the Slovenian border with Italy. This immediatly led to protest from local Slovenians who constructed barricades and had demonstrations against the 13th Army Corps. The Corps were under strict orders not to engage the Slovenians so they were forced to halt their advance.
+        <p></p>
+        <img src="http://shrani.si/f/2E/2f/3QkGX1Nb/64800682dragonja-04-07-1.jpg" style="width:250px;height:250px;">
+        <strong>Slovenian Barricade- 1991 during the 10 Days War.</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>June 26th, 1991</time> While the barricades were under way from Slovenian Civilians, the Slovenian Military begain it's first military venture. Slovenian Soldiers seized border posts on the Slovene-Croat border and the Austrian Ljubljana Jože Pučnik Airport in Brnik. The people gaurding these Yugoslavian posts were Slovenians, there was no combat, only a change of uniform and flags. The Austrian Soldiers  guarded the Airport during the war, while allowing both forces to use the compound.
+        <p></p>
+        <img src="http://upload.wikimedia.org/wikipedia/commons/3/37/Ljubljana_118.JPG" style="width:250px;height:250px;">
+        <strong>Ljubljana Jože Pučnik Airport</strong>
+        <p></p>
+       <img src="http://www.biweekly.pl/public/media/image/63bcee55.jpg" style="width:250px;height:250px;">
+        <strong>Austrian Soldiers protecting the airport- 1991 (Chris Neidenthal)</strong>
+        
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>Morning, June 27th, 1991</time> The Yugoslavian Peoples Army (YPA) moved the 306th Anti-Aircraft Regiment (Red Arrow), based in Karlovac, Croatia, across the Slovenian border at Metlika. YPA 1st Armoured Battalion (purple arrow) left their barracks in Vrhnika and moved toward Ljubljana and Airport. Other assorted YPA units (Orange arrow) left Maribor heading for the nearby border crossing at Šentilj and the border town of Dravograd further west.
+        <img src="http://i64.tinypic.com/r0s937.gif" style="width:1000px;height:1000px;">
+        <strong>YPA forces in Slovenia.</strong>
+      </div>
+    </li>
+     <li>
+      <div>
+        <time>Early Afternoon, June 27th, 1991</time> There was a meeting of Yugoslavian military leaders, including the president of Slovenia(Milan Kučan). During this meeting President Kučan discovered that the Serbs were planning to transport troops via helecopter to their forces deep in Slovenian Territory. Kučan announced shortly after the meeting that any Serbian aircraft that attempt to fly over Slovenia's borders will be shot down.
+        <p></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Soviet_SA-9_Gaskin.jpg/1280px-Soviet_SA-9_Gaskin.jpg" style="width:500px;height:500px;">
+        <strong>9K31 Strela-1 a common Slovenian Air defense tool. A right front view of a Soviet-made 9PK31 mobile SAM launcher in Polish service mounted on a BRDM-2.</strong>
+      </div>
+    </li>
+     <li>
+      <div>
+        <time>Late Afternoon, June 27th, 1991  </time> The YPA leadership discounted the Slovenian's warnings and used helecopters to ferry special forces to troops behind the Slovenian border. The Serbian leadership beleived that the Slovenians would back down rather than fight. This was a mistake. Slovenian anti-aircraft forces using 9K32 Strela-2 mobile rocket launchers shot down two helcopters over Rožna Dolina, Ljubljana, killing the occupants (one of whom, Toni Mrlak, was a Slovenian pilot, as the YPA's forces consisted of nationals from all the republics). This was the first real bloodshed of the Yugoslavian Civil War.
+         <img src="  https://upload.wikimedia.org/wikipedia/commons/e/ea/SA-7.jpg" style="width:1000px;height:500px;">
+           <strong>A soviet made 9K32 Strela-2</strong>
+         <img src=" https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6nK6fSGs_VVWlXQmQ0zzlQRXslPHIL--1kidQWj1O4HU6Dlwr" style="width:500px;height:500px;">
+        <strong>UN Soldier facepalming</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>June 27th 1991</time> Slovenian Territorial Defense forces attacked various YPA barracks across Slovenia, At Brnik the Slovenians attacked YPA troops at the Airport, and at Trzin a firefight broke out and four YPA soldiers and one Slovenian TO soldier (Edvard Peperko) were killed and the remainder of the YPA unit was forced to surrender. Attacks were launched by Slovenians against the YPA tank colums at Pesnica, Ormož and Koseze near Ilirska Bistrica. A tank column from the YPA's 32nd Mechanised Brigade, advancing from Varaždin in Croatia, was blocked at Ormož near the Slovenian border and found itself unable to break through a Slovenian barricade. Despite the confusion and fighting, the YPA nonetheless successfully accomplished much of its military mission. By midnight on 27 June it had captured all of the crossings along the Italian border, all but three crossings on the Austrian border and several of the new crossing points established along Slovenia's border with Croatia. However, many of its units were still stuck in vulnerable positions across Slovenia.
+        <p></p>
+       
+        <img src=" http://i68.tinypic.com/35mpc05.png" style="width:750px;height:1000px;">
+        <strong>Forces in Red are Slovenian, purple are JNA, circles are heild border crossings, stars are conflict areas.</strong>
+        <img src="http://shrani.si/f/o/pf/4hxee4Wk/yugt55sloveniaypa.jpg" style="width:500px;height:500px;">
+        <Strong>The 32nd Mechanised Brigade, advancing from Varaždin in Croatia to the Slovenian Border.</Strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>Night of June 27 to morning of the 28th, 1991</time> During the night of 27–28 June, Slovenian Defense units were ordered to undertake a general offensive against the YPA. The Slovenian defence ministry ordered:
+        <p>At all locations where RS (Republic of Slovenia) armed forces (Slovenian Territorial Defence) have the tactical advantage, offensive actions against enemy units and facilities will be carried out. The enemy will be summoned to surrender, the shortest deadline possible for surrender given and action taken using all available weapons. While in action, any necessary arrangements will be made to evacuate and protect the civilians.</p>
+         <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dr%C5%BEavna_proslava_ob_dnevu_reformacije_2010.jpg/220px-Dr%C5%BEavna_proslava_ob_dnevu_reformacije_2010.jpg" style="width:500px;height:500px;">
+        <strong>Milan Kučan (President of Slovenia in 1991)-(Lower left)  meets with Danilo Türk and Borut Pahor at the 2010 state commemoration of the Reformation day.</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>Nova Gorica, June 28th, 1991</time> More fighting took place during the day, The YPA tank colum that had been attacked the previous day in Pesnica, was blocked by barricades Štrihovec a few miles short of the Austro-Slovene Border Crossing. Trapped at this barricade the Colum came under heavy fire from Slovenian Gaurd and Police. The SFR Yugoslav Airforce mounted two Airstrikes supporting YPA forces trapped at Štrihovec Barricade, killing four Slovenian truck drivers. At Medvedjek in central Slovenia, another YPA tank column came under attack at a truck barricade, where air raids killed six Slovenian truck drivers. 
+        Heavy fighting occured at Nova Gorica on the Slovene-Italy Border, Slovenian Special Operatives led a spearhead attack against the YPA forces, Destroying three T-55 tanks, and capturing three more. Three YPA soldiers were killed and a tank Battalion Commander was executed. Over 100 YPA Soldiers surrendered after this decisive victory.
+        <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Teritorialci_so_z_armbrustom_zadeli_tank_v_kri%C5%BEi%C5%A1%C4%8Du_pred_MMP_Ro%C5%BEna_Dolina..jpg/248px-Teritorialci_so_z_armbrustom_zadeli_tank_v_kri%C5%BEi%C5%A1%C4%8Du_pred_MMP_Ro%C5%BEna_Dolina..jpg" style="width:500px;height:500px;">
+        <Strong>Tank outside Nova Gorica before Slovene Mobile Artillary strike, 1991</Strong>
+        <img src=" http://www.slovenija2001.gov.si/10years/path/war/img/vojna-01-big.jpg" style="width:500px;height:500px;">
+        <Strong>Burning tank outside Nova Gorica after Slovenian Mobile Artillary Strike, 1991- Military History Centre Archives</Strong>
+        <img src= " data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMVFRUXFxgXGBgXFx0XFxgYGBgXFxgYGB0YHSggGholHRcXITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGyslHyYtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMsA+QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EAD4QAAEDAgQDBQYFBAECBwAAAAEAAhEDIQQSMUEFUWETInGBkQYyobHB8BRCUtHhFSNicvEzUwc0Y4KSorL/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAmEQACAgICAgIBBQEAAAAAAAAAAQIRAyESMQRBIlETMkJhkaEF/9oADAMBAAIRAxEAPwD512ksiRp9UI7BN/79HzLh/wDpgUqZ7o8ELWZ/kHdQHW9QFywjXR05JXTDaGCEtmpRLZEgVBJG8DVV/wBrKIHezGTOo5Qg6Yg6WRB7K/v89B+6qqZKaa9F+JbTIEAA9J+MledhIJtGlvEwhGNZzdHkmDXtGUhzyXaZgOfRTkk6KhFGy4bUB90yA0g8rNaPot82tOHFxOQR3jMwF84wuLqPLgapLW6DoLLbcLxLuwpxn90aZI+N9F4s8DlPR6sZJpWQ4ZUqdnUDnhoIIu+DoZi2/NfFOIe8b/GV9yrYo94TVBI/9PS6+J4+nLjrr0+i9TxYONtnD5MoukhS5doUs7g2Wid3ODR5k2CuNEdVzsRzK7DkZb+DLXXfTdb8lRrt+hXa+GLQHZmQdg8Fw8QLhVU6cFScJSph6KyuhE0cM0iTP35Kw4ZvP79FLl6GoMe8LAFJsReJ9UBjWF0ta0uJ0AEknoBqV2jjsrQ20DxnnyQ2IeHSJEFcsMclJtnXKa4pICxXDK9MTUoVWDm+m5o/+wQYB5Ih2CHMLgwvULss5NnsG6Ht8Y9Uxr1Xdm25nQ36n1QAw5G4RNQWj73USVtMtS00Dh5lH4fD1HkjKepIiPFew3YtFw4u8LD0KYjijJce9czoeQlZ5Jy/bEqGOP7mK6tFzTBEKIcmL8ax2t/EKx/BS6mKtO4vI3EGLc0oyb/UiZ40txYvp1imOGxpCUOBBupNqq6MWrNpw7jZG6bV8aKrbxKwFGuj8PjSN1rHM0qZm4K7NBhsSQ+JNtE5/qbv1H1Cx9DEy9vnPxRv4sdfisZd6NoNoyNH3B97IGoTN7ovDu7oQp1WkSpEQF1mhUVZSvI6T8QqIRdg2gi/NF0Wta8CNCfkUDhwQ4GYg/sj/wAFUeS9sASYJssZRtmsXSGnDMRGfqPqtdwutNBmmmuUnQrC0aL2agHYwVsuAu/sNkjfV5G/JKGNKVlSyWqGzr7DT9BXyjHDvO8T03X1cEfqb4dofXRfKuKj+47/AGO87lboxsBJUZXSokKqYWW09VxcpG69KVBYQx1l5z1SCuyp4orkyRf4rznWUCVIaKqFZAhdhShdQSQVrG2USrGCyGMhlXQ1TDVOkySPEIAY8N4Q14BeSJ0A5ea0DKDaVPI15HImJOttCheH4qmHd42BvZR9ocU0uHZuJB0kRqodPsSbTFb3dq406jYeNHjc8nc/FLsThiwkEQm3DW/3m2vv6JlxTBh4gRYaxvyUuWykvZkg5WtxMKdXh9UH3CrsJwozNSABeN0WhUM+A0c5k2zWBOw1c5avs6H+Pr/Cz2EcQLtLWN1gCTG3IBE/1dn6H+g/dYybbNYqkYmhEWmOvmu0cLnJh7Qdbn4KGGZA29VOnRkg312C6ordMyk9HMRg3MjQ/wCt1LCUdT/iUfjcS1zQA45wevXn/wC1DHtWnK4EGNHD91eWKjKk7M1LluqBW1DmEjdaWneR1skQoOc0u7JxaNXNBIHjyWy4XgWOYXWMgDS46EaLCcuJ0YsbmK314blJYLzctn1JnyWk9nah7EZXXk6FsfFZ3E8CY0AlwnMZFgY5J37PNAox1d+WbKlK6CeNwHsunV2lrsXyzjf/AFX/AOzuXM8l9PbU0gW/1C+Zcf8A+vUt+d20bq0ZCpy4V0lcTAlTN10rlIXC87VIZ0FdlRAUigR5TOg++agpxYIYzwUguBdhFEnlYzRVwrGiyKGdBUg5RAU2hADBteme8THMb+AR3D+HuqzWdZos1vhaSkC1/CP/AC4HMn5nooaGivh+FDQXbnTor2vL4lzRIvbX0RQbASdwh/yXPkLgGYjD95ukdP5V9LCNIJDQGj3nO+Q2Qleu6BsQdSOag+qX2dVLo20HoFlZrRZi8Sy4aDGnlol/ZjmmTMGCNCqvwHT79U4uL7CmY+hiG6XRGBrw4CLSSfD90qp6j7+9UQauW/8Axou6UbMFKhwzFzWL2saA2CBr7sRKccT4ycZXplzGt0Z3eXP4lYlmIK1WCwQYG1BrrmmTPTYaqGmumKr2M8Fjn4enWoUw0sqbnVuyY8HltMyROawHKFl3YrKTJt8eiqbxZwFvhqAlKHI0xZFCVjTjuNucsyOfMnxVA4kaeGzNg98zfmErxWKIOY3m5U6dZrgB+WZ0HrBVxhpCnkuRF/tNWGw9SluNxRe8uIF7mFuKWCYcrgGgRoGtusz7U0wKxgAWG3RacaM3O2JMy9K85cQBJmoUiVBmq1PA/Z1j6fa1XEAyQLRHMyk3QWZkFdW1pezOEebVXHoHNj4BTxns5haYzd7XQuJHw1slyCzD5k24bw3OAXSGnSNSmmHqMc4sp0mhn5iRc/VHwBYCyTkAkq8NpmzS4HrcJfiMI5mq0lYDcbxyUPw7XWNxyVE2ZdTabLaU+F4QC7NebrhSpcLwrTIjoMwSDkjFBWNK1dfhOHLgIdJ5Gw8YV39Dw5EBsHxKLC0Y5azhR/tN8/mVc3gVAR3DPOSpVaBZ7jXOHjPzUz6GpFhfZB4qnoRzXTWf/wBt3oUPjatoIynYG3pK55Js0g1ZfjWnJp8ULhOIhlgzMTzhCUazCIc58+Mj4FV1WsF2v+YPxWXH0zezU4biANnDKT6KfaN6eqzFDGMiHF8+I+qn2tLm/wBFHFjsx7VdXpEidtPv0VLUTVZLfT5Fen7OT0DYajmeG8zC1bjlZl5XHlYpLwGgM5cdGj52RvEKxEOiCdBvCznvouDo7SEgnWVQ+gdHQOV7oun3W+74KipVnaPRNbJeittHndWQIXrx1Q9XGmDYeKsn2aPh9dzqbY2d8jKUe1R/uDq0fVS4FXfdrSBv7ubpZV8fo1XPmC4AC4aQOaq1VCrdiIlcJTPC8Kcbva7o0C5/YJ9wfgYJl9MNH6SJPQmdPBTZRnuF8Kq1XDK05ZEnQR0lfQMRh5phgOSI2BsNoRFOmAIAhdqBFX2S2LuH4Ps3S0w03POT8ggfaSuQ0wZBI8unz9U0J1S7iTO0ZlB7xPx0UtU7GmIOGYzK+DbNb9k7NZIqvBa4JJAZHM6+Chh8c6Cxxh2gJ+ql0+i3FrsZYrHi4a0v2nQL2F7Vw1ytnlePEpYyq5lhZdGKqOMTJNo+ipMhoY8ToANGWZnxVPDm94tMOnSSbEoTEVHgFpmeXgu8JxDgC0Nk68im6omjXYCgGEASbbmfRMWuCS4HEl1y2OQmYHJM6R3iUUS+wvMuqqpiabRLyW8lSMe0m2+26ACnhQdRBFwD4iV2m+RKnCKFYBU4fSOtNnm0fsh2cLa0nI1oB1gfDRMqjVABQ6GpMX1KcHJlYBBuRG1rjmbLn4IfpZ6n9k0yg7eqr/DM/SPRLiXyPlQRdZ5DY5x8JRVPhDuvmQj6fCSdm6Wm8fBa2acWQwFBtNs2k3lx+5QOKeHVAAZuJKZ4ijbLDCYu4pZ2BFQH8t/WFJLDadaRHIlSp09xpe67wvDjukmRmkgjWToiMRTy5hIgEi3IGym0nop7VsX1RKW4sm89EbVqILFulaIgYezQzVQJy+EbXjQrVYvEupuyCm1wIFw4tIvdYvgdSKretvVbWjTkyRJ6ylS9j3QRh8OQ4vPLSev/AAj6TYF9TqqOycYgHKDJ6kbfVWvJ5FSpJvspxaXRJz1RVeoVK8fyqHPN/sKrM6I1nJPicQWvCZxO5PXQeSA4thczTzCdWgTphteo14bUJsAN9LcuaR4rhbajy6mconWZCU1cRUbAMxeB4Jzw7G/2uviufi49HXzWTTK8Tg3C2v3sl2Qh30ITCnWc91nTePimDuHP3A8ZWkXrZhNcXoTOwrwLF0kAHSOa5hqNbMO8Ym/gn9GkC0FWNpibQnbIsq4WHO1FpTymYCGpCESxUrMwfF4Uv3gjkoYLhYacxJJ6n7hHr2ZCjsHL0TpiFOVW1WBUQceFUrHlVbrNlIsYOqu7Mc1XTVmZNIRl6QHNXhwUKOH5qzsm/ZRs9Kog1dgPXxCW4jCS6QLC/wDEJ4abYP0N/iVRgXNc9rXTBk2uYAmyV12YzguVIWioQ2YjoNQULjDUJc1rHui5ytJgRqYWj41iKbGQGtIcNAIIOxa7n0KH4RiGtu8uzGJItyFoURu7ZWSKSpGXwuDrVXQxjiDuRA9TYpnU9lakS2o2dS1wyx5gkLXBkPzh7YvDS4OkReZ0Hkh6LKlQuyim14iL5Wm94gXdYac1puzExmB4HXDwQ2zXCXAiB1WwpvyNLjoB9+a4ym/vZ4zb2uq6rcxaDoLkeGnz+CJXQIMw1Z4b7xk3i1p20Uv6nUabFpjmP2hDYitBEISpViSfFZ/jj9FrLNexm3jzi4g0mnaQYVT+MMIP9q0xMi+3JJKVTbmZceiqo4jO4ge6CI6m8lL8MSvzzNA3iLTfsjpzCqxGIaR/0iJ5EeKpa8affmhcVUzTfeAfDdOOJL7JeaTXr+gRuHpPD2VSWgXY7KXEE7QBMW+SqwvBKMEmsyq42DWnKR1M3hWUHOzXPPUrRcJY0tLyxsxrA8vNdCho53Jpg3DuGU6Te60TuevmindFY53ReACzSCxccM4OsYBuR+yIbRiEVSouc4BrS4nQC5TPF8Aq0qYqVMrZIET3rydrbc1VCFTQrWlW4DhlSs7JTbmO/IdSdltMF7BtawuqvJdlJAbZoMWk6kT4JXQUzDFTap1KQBsohqoTRNq7mURZec5AqOOKiCukLgUAkTapwuMCuhWkIy7MMeauGG6oDC4t1TQ+SKbQqdfVTOEoOmj0I5YzVpllakGguvYE/dlmeHvcXl4JBb7vSblaN2DdF/mk/DMKX58om50GgkhS74kTa5WmabheFzU25mtzRIcWyb31Nl4YJpYTUaGmSA5uhncjlPKECym6mSSCYEBptEzPnEIrBcUJzNDWtA90OkkjcFxMSkrohuwHEQx5aLuBIEbnT0V9Go0aMMgtsLjmYneEzxPEM7C17GNyWDjYxGlt+qyXEeONYwspe8bEiYaNIE3k8069oVsObxPMX9nLYcJ8D9lSwBcM4cZId/P1SzguFdGaYzG99gm9MWc8aEg/RJO20Fas5jKveaFGsJB8CqK5PaSdNo3VL6viExAoq93KPMrmHq3IHKBHUqvE07yFzhtql+UJtBY8aIbA1OvQKFQQIGgCtHzQ+NcGjeSmhMHfUESZgctUw4ZxOl7jQ8kxMgAADwPQJbRuYPMJw3C02AETJG8Cy0TYlx4u2Gdsm3s5g6NZ39yq0RowOgn+FlMRiJsNFSK3MLoh4ratujllk3o+6cPwlKkIptDfAa+J3UeJ8LGILA93cbeBqSeu1vmvk/AuJ12kClUcANjdvotnh/aqq0S9rXx+mQfqFhPHxlxs2SbjyRuOH4OnTGVjQ0fdzzKs4xjeyoveIzRDZ5mwWW4V7dYV5hzjSd/np6rW4TE06oDmua8aggh3ms5Y5Re0EZp9MxPCfZOtWdmqjs2G/wDmfAbeJQXtTwinQrZGSBladTN9fkvqTSvnvt1VnEEcmtHwn6pLZXRkiFxSfdQhOiD0roC5TE6qxKgomxWKuF2Ewo+eYTEZCNVqcFVzid1lGhNOGYjKJ9V6eWHJHPCfEf1gA09AfksxwLFPY5wa/KXCD4El1+midcUxTxTPZszS03nTy1KR4DhrjUAm559Bp8F5uR1o7YbZqcKZBDi1zTqxxkhw3a7bwSvEcPFNxyg3AN/jpuvOa6k0tNPMRcEg+9vvpMpxhuLNIyVWNqUzBOU94GJgjlKyLELqgdTeXuJa2dZvDR9YS3gfs4X/AN2t3ad4BsXdegTHG41mdlNomS2Ro3WY8ExxmMa67rRaFSBgZDQMtNuVptmOridAEQ3DRTEXEQUNgnGtUzkd1lmjrzTCoS0zmjaOfluocdpoqMlVMXV8OSOouDyhCPxLYvruIJA/hFVsdEiP2H3yS+pWpk5i/KemqtMlo5WDSCZCXufDmkKzEYhr3ZWy7x1RH9BdkkuynWOXik5JaBRb6GlG91XVfBvBn5Krhzu4LyYi3Sytc1pNzH3sqTJZFtEWc0xeY6qdWtM3VOJeM+RtgBf7+9V5sACTqJtqrd+hQpS+XRzKT1V9HBuJvZebimiIa70iPVWPx4Gi1jmyJVYZI45P4xo0fDcGGtELuLrZTFvl6LPjj7g0AagJLi8VUe6cxn5Llgrk+TO38cuFxiPuIcMe5pqsuJ7wi7fFAYHFVaRljn0zzaSENg+I12k3JmxnRXtxZcbr3vHknCpNM8PyMcoz6o13D/8AxDx1OGl7Kn+7JPq2FbjOJVKzy9+rjP8AHhskXCsFHfI8AmzWrzvJlByqCNcXKvkelccFztBmjdV1KomDK5ezai0KVNvNcpopjuiYHL6aKeTqutUoCAPlzXaI4SGjrdLcP3imuQk9BovZWzjlpBfDcU8CCgsVVc54LSRlMgjWeaNoN6IbiHdBiANzv5Li8vBXzRv4+a/iyeD4k52ZhBqXl1+9f8wKLq4fJenmbmE63gaz4Jb7Nkd5wFyY8gtDRxBbmztc5rmxsQ30XA4nXaFWCYHFrnAl2YGbQLkTcqVfHZnupx3cx11BE7qnjWMDgQ0EFxgcg3ZKuHYjLVykC7ok6jWFNDNThTkZDbn69UPj6vYsL3HM8iB0nko1HEGWmCluMY57gXGYVJiBW4yAcoJnWR6oCtUJmQPJM3U0PUYGxOnT4o7GtDj2a4SY7Qi+o+nw+alxypBLJvumnDOKU+wLm/l1BsZWXx+IzEk7m650m5bOl6id4W8gkbfVM2gDM92jdPFJaL9I0R5xktgiQLwuiqOVlFamYJOrj87/AAsjKWnwQgcScxP/ACvGTZXZAXXxQ0Hr+yDqgnwXgxXUaZJR2CfF9FLWE7FEUcI46NPomeFoJg2AFjKF+z0If9Diq4f6LMNgHb2TNmFY2+WT13VtJkqvENIufAXVQiodMxz+Zk8jUuvo4cSR96LrccPzWQsK92GbYkSfFVdnIQxPEgBIEnYKfDGVHQXRHjpddbhZMlNcPRAS9j5UW9iJCtbSspU2yimsmybIsDeIMXXYRVenGyr8kIdnyRtcUhMSVWONv2FkFiahe6Ar2Ug3Ut8Tf0AXpcpXroxUYpbD6HE6ztAAjKj+1aWOIzc9pS1jc9hVP/wICm3hlQfmWltqnszaV/Qx4Pwh2UOc8UxJ8bFPH4imxpGcudBvG6Q0WvDe+RbdWNuuHJBxdHTCXJWdw1QVyQBlqNGloNxcdYQPFcKWHODcOPwKGxtMtdLSQRuFdw5wqSKskzPIrmr6NrGlWqS0ObFxKCfXdyCPpU2hsAyPuypq0ht6KdoYGzS+qpqwPzopzULWB6eiaACgTIdO3JWsKqdyhSoVAfFWiWwhjeViiqbJ1HovYWhfRNqFCNfRS2Av/D8lcygjexB2JVlPDmNyPikSAtw8lHUaACtawefVXMZ0RsnZxrETQoElcZSPJFYYfBNCCWMDAlmKcDHII3HvgRsldQEoZS6JkAttqvUMC4ybyb877QCuU6bthbdNsOywtBQn9jKMLhnADN6jT/lM2UNAL2lQo05KYtZoDYc+aZAOGwraBjVeeAeg6KLj9P5QBZiK1roD8Wzn8P4VgvbbeeXJc/Ht5D78km6KSPi9Cl+p0eGqb0KkiGEearwuFn3gGotvD28wD0svXhGujklNMHqOrc48Au0q9Qao8AC0yrDTB6rTi+yOX8AleuSz0QfbkIriDYb4lL8hIiSuLyP1HThrid7cEzld6z8F01GahxB5QbrzKJBRbMKDdcz7NizheIkEH4o17EPSYBYIphWUlstAlZvVC1m2TDFdEFVFlKGA5Qg6ljI1B+qLehqlD8xMclZND/h1UFocbT0t9/um9ICPv1SJtRzcOJyy7ugA3bHMeiCwfEalI65m8jceXJTQUbFjL2CIomEt4ZxVlTSx3B18uabUQCU0iSbaIdsunDOGlxyP7omi/ZX4dwd4c0woBOIAgkWFoi/l5qVGtIkNLRpcI91ATp6Kp9P76ICk1oV13uLogwqcPTOe5JGybvodJ8VH8KTspaHZKnAFhCIpUiTpZToYKAJ8huUbSBmPgNkE2RbhsttzsFa0OvOqmyqOVhv9heqVhyTE0gYiDHJQMzAvdWPqtMoem+JebDQdUN0EUD415aMjYzHUoT+mdT6omi3M4kg6idOuiKnxUNWapHzGkwuFjC4/Cu3cVdQETHNeJXvVZ5ttAoaRur6NcjmiGsHLdEU2hVxaIcxdi6ZeReI28VBrQBCteVUV5mWVybO/GqiiDwraDrqJXcLd1+SxZoEs13V1IqNHfyU2LOT2UiFUShqzbXRgQmL0KkpiuuvNod0GV6ui8I0Fgm+vzVkATy42kxsvOOY9/wALBE1xf1+qHKdAGcDw4Lzci3TpdPanE+ydld3o5fd0o9nWzUM/pPzCrxryXOk7lKqHSo2fDscyoJDk0w0DwHkvluHruaQWkg9FucFVJAM3gIqxJGhJJiPTeEQaQIjkgcE8k3+9EUx5Mz+kpUJorjZFUgIvqqsM0FxkbfRW0dUmyYk5I1HmF1juU3VkXjay88QLWSsqrJAW+MD4IbEmTou1jZU1rSmiWjtKlmMaDdC1Saj8oMNby06D5KqvWcGOg/dlfwwQ0eSbKSrYY2hpG2yP7Fqqp6HwQPbO5lZy7ouK0f/Z" style="width:500px;height:500px;">
+        <strong>Slovenian Soldiers paint their flag on captured T-55 tanks.</strong>
+       
+      </div>
+    </li>
+     <li>
+      <div>
+        <time>June 28th, 1991</time> The Border crossing at Holmec, was captured by Slovenian Defense Forces, the Firefight killed two Slovenian Soldiers, three YPA Soldiers, and 91 YPA Soldiers were captured.
+        <img src="http://www.slovenija2001.gov.si/10years/path/war/img/vojna-06.jpg" style="width:500px;height:500px;">
+        <strong>Surrendered YPA Soldiers at Nova Gorica, 1991</strong>
+        <p></p>
+        The YPA barracks at Bukovje Mansion in Bukovje near Dravograd were attacked by Slovenian Defense units and a YPA weapons depot at Borovnica fell to the Slovenian Soldiers, significantly improving the Slovenians' supply of weapons. The Yugoslav Air Force carried out attacks at a number of locations across the country, most notably at Brnik Airport, where two journalists from Austria and Germany (Nikolas Vogel and Norbert Werner) were killed and four Adria Airways airliners were seriously damaged. The Yugoslavian Airforce also attacked radio transmitters at Krim, Kum, Trdina Peak and Nanos in an attempt to silence Slovenian Government Broadcasts. By the end of the day the YPA forces received some heavy losses, and their morale was further dampened by many of their comrades joining the side of the Slovenians or refusing to fight Slovenian Forces.
+        <img src="http://www.slovenija2001.gov.si/10years/path/war/img/vojna-03-big.jpg" style="width:500px;height:500px;">
+        <strong>A Slovenian held Border post, 1991.</strong>
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>June 29th, 1991</time> YPA Forces attempted a maritime landing at Hrvatini, but were ambushed by Slovenians and forced back into the sea.
+        The YPA-held border crossings at Vrtojba and Šentilj also fell to the Slovenian TO, who seized the federal troops' weapons and tanks, providing a much-needed boost to their arsenal.
+        <img src=" http://2.bp.blogspot.com/-4rAohVaxAL4/TgbyrjD4QrI/AAAAAAAAAT4/3TwNDSqCRNM/s1600/270095_1980478224844_1029826002_31751901_5640809_n.jpg" style="width:500px;height:500px;">
+        <strong>A Yugoslavian held border post in Slovenia, 1991.</strong>     
+        <p></p>
+        The YPA issued an ultimatum to Slovenia, demanding an immediate cessation of hostilities by 09:00 on 30 June. In response, the Slovenian Assembly adopted a resolution calling for a peaceful solution to the crisis that did not jeopardise Slovenian independence, and rejected the YPA ultimatum.
+        <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Odhod_zadnjih_vojakov_JLA_iz_Kopra.jpg/462px-Odhod_zadnjih_vojakov_JLA_iz_Kopra.jpg" style="width:500px;height:500px;">
+        <strong>The last YPA Soldiers leaving Slovenia by boat, 1991.</strong>     
+    </li>
+    <li>
+      <div>
+        <time>July 1st, 1991</time>  More fighting took place, Slovenian Defense Forces took the YPA Defense facility in Nova Vas, south of Ljubljana. Th YPA's ammo cache in Črni Vrh exploded, damaging the nearby town. Later Slovenian Forces took YPA ammo and weapons caches in Pečovnik, Bukovžlak, and Zaloška Gorica, taking possession of some 70 truckloads of ammunition and explosives. The YPA 306th Light Air Defence Artillery Regiment's column retreated from its exposed position at Medvedjek and headed into the Krakovo forest (Krakovski gozd) near the Croatian border. It ran into a blockade near the town of Krško and was surrounded by Slovenian forces, but refused to surrender, probably hoping for help from a relief column.
+       
+        <img src=" https://s-media-cache-ak0.pinimg.com/564x/a3/b2/30/a3b2305d30911f169459d0edcbf49162.jpg" style="width:500px;height:500px;">
+        <strong>YPA Anti-Air defense crewmen on exersize.</strong>     
+        <p></p>
+        Meanwhile the YPA leadership was working on changeing the intensity of the conflict, the plan to control the border crossings had failed, the Yugoslavian leadership decided that the only option left was a full scale invasion of Slovenia and reinstating Government control with military forces. However the the collective presidency — headed at the time by Serbia's Borisav Jović — refused to authorise such an operation. The YPA Chief of Staff, General Blagoje Adzić, was furious and publicly denounced "the federal organs [which] continually hampered us, demanding negotiations while they [the Slovenians] were attacking us with all means."
+         <img src=" http://www.bosnia.org.uk/images/adzic.jpg" style="width:500px;height:500px;">
+        <strong>General Blagoje Adzić</strong>     
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>July 2nd, 1991</time> The Heaviest fighting of the whole war took place, as the Slovenians, emboldened by their recent victorys and flush with fresh ammuntion launched a new offensive against the YPA forces in their country and on their Borders. The Domžale radio transmitter was attacked at 10:37 UTC (11:37 local time) and heavily damaged by two YPA Mig-21 planes. During the rest of the day the YPA was pushed further back, The YPA convoy in the Krakovski forest came under sustained attack from Slovenian Defense Forces, forcing it to surrender. Units from the YPA's Fourth Armoured 
+        Brigade tried to move up from Jastrebarsko in Croatia, but they were forced back near the border town of Bregana. 
+        <img src=" 
+        http://www.sloveniatimes.com/modules/uploader/uploads/Aktualno/Podobe1/64800718_pivka-04-07-1991-vojna-za-slovenijo-transport-oklepnih-vozil-jugoslovanske-ljudske-armade-ki-zapusca-slovenijo-umik-jla.jpg
+        " style="width:500px;height:500px;">
+        <strong>A YPA Armoured Brigade</strong>
+        <p></p>
+        The Slovenian Defense Forces mounted successful attacks on border crossings at Šentilj, Gornja Radgona, Fernetiči and Gorjansko, overrunning them and taking a number of YPA troops prisoner. A lengthy engagement between YPA and Slovenian Defense Forces took place during the afternoon and evening at Dravograd, and a number of YPA facilities and ammo caches around the country fell to Slovenian forces.
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>July 3rd, 1991</time> A large YPA Armoured convoy was sent from Belgrade to Slovenia, it never arrived, according to the Serbian Government it suffered from mechanical failures.
+        Fighting continued in Slovenia, with a YPA relief force heading for the Gornja Radgona border crossing being halted near Radenci. YPA forces at the Kog border crossing were also attacked by Slovenian Defense units. In the evening, the YPA agreed to a ceasefire and a retreat to barracks. "In a separate incident not far from Radenci, in the village of Hrastje-Mota, a Yugoslav Mi-8 helicopter developed mechanical problems and was forced to land. The helicopter was seized by the Slovene military, but was deemed not suitable for the newly born air force and handed back to Belgrade on 13 August."[23]Insignia magazine, Volume 1, issue 2, March 1996.
+        <img src=" http://www.military-today.com/helicopters/mil_mi8_hip.jpg" style="width:500px;height:500px;">
+        <strong>Mi-8 Helecopter Gunship</strong>   
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>July 4th, 1991 (An odd coincidence)</time> With a ceasefire now in force, the two sides disengaged. Slovenian forces took control of all of the country's border crossings, and YPA units were allowed to withdraw peacefully to barracks and to cross the border to Croatia. Slovenia had won it's war for independence.
+        <img src="http://www.washie.com/s/cc_images/cache_4213414829.jpg?t=1438640964" style="width:1000px;height:500px;">
+        <strong>Slovenian Indpendence Parade, 1991</strong>   
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>July 7th and Onward</time> The Ten-day War was officially ended with the Brioni Accord, signed on the Croatian Island of Brijuni, Slovenian and Croatian Independence was agreed to. The terms were distinctly favourable to Slovenia; it was agreed that Slovenia and Croatia would postpone their independence for three months — which in practical terms had little real impact — and the Slovenian police and armed forces (Slovenian Defense Forces) were recognised as sovereign on their territory.
+        It was agreed that all Yugoslav military units would leave Slovenia, with the Yugoslav government setting a deadline of the end of October to complete the process.
+           <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Umik_JLA_iz_Slovenije_%281%29.jpg/440px-Umik_JLA_iz_Slovenije_%281%29.jpg" style="width:1000px;height:500px;">
+        <strong>Slovene military member (front left) supervising YPA personnel before departure, 1991</strong>  
+        <p></p>
+       The Slovenian government insisted that the withdrawal should proceed on its terms; the YPA was not allowed to take much of its heavy weaponry and equipment, which was later either deployed locally or sold to other Yugoslav republics. The withdrawal began about ten days later and was completed by 26 October.
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>Casulties</time> the YPA suffered 44 fatalities and 146 wounded, while the Slovenians had 18 killed and 182 wounded. Twelve foreign nationals were killed in the conflict, principally journalists and Bulgarian truck drivers who had strayed into the line of fire. 4,692 YPA soldiers and 252 federal police officers were captured by the Slovenian side. According to post-war assessments made by the YPA, its material losses amounted to 31 tanks, 22 armoured personnel carriers, 6 helicopters, 6,787 infantry weapons, 87 artillery pieces and 124 air defence weapons damaged, destroyed or confiscated. There was little property damage done to Slovenia and the new country recovered from the conflict quickly.
+     
+
+      </div>
+
+    </li>
+
+
+
+
+<!-- Template for CSS divisions
+ 
+    <li>
+      <div>
+        <time>  </time> 
+      </div>
+    </li>
+
+
+
+citations:
+http://www.slovenija2001.gov.si/10years/path/war/
+http://www.wikiwand.com/en/Ten-Day_War
+ --> 
+  </ul>
+</section>
